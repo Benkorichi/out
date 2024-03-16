@@ -1,4 +1,4 @@
-# fds-smv
+mdr
 Fire Dynamics Simulator and Smokeview
 
 *Continuous Integration. Continuous Improvement.*
